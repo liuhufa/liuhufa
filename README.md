@@ -4,4 +4,7 @@ I am a researcher interested in information retrieval, representation learning, 
 
 **Affiliation:** Huazhong University of Science and Technology
 
-**Email:** m202373546@alumni.hust.edu.cn
+**Email:** 
+m202373546@alumni.hust.edu.cn
+liu61895339@gmail.com
+
